@@ -5,9 +5,11 @@
     Discords City
 </h1>
 <h3 align="center">
-    Grow your Discord Business in Discords City
+آژانس خدمات سفر اسکای رو همیشه بروز و پیشرو 
 </h3>
 <hr/>
 <p align="center">
-    You can add your Bot or Server to grow your business and read our blogs to be updated from all discord updates and tricks
+خرید ارزان و بصرفه بلیط پرواز داخلی و خارجی
+
+با خیالی آسوده بلیط پرواز خود را رزرو کنید
 </p>
